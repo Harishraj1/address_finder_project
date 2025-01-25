@@ -1,5 +1,7 @@
 # Address Finder
 
+The Address Finder project is a tool that helps users correct misspelled place or area names. It provides the correct name, displays the latitude and longitude of the location, and integrates with Google Maps to display the correct location.
+
 Navigate to the project directory:
 ```bash
 cd address_finder
